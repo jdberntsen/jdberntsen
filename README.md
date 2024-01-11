@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jdberntsen
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning computer science
